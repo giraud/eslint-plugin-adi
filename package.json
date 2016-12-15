@@ -1,0 +1,13 @@
+{
+  "name": "eslint-plugin-adi",
+  "version": "0.0.1",
+  "main": "index.js",
+  "keywords": [
+      "eslint",
+      "eslintplugin",
+      "eslint-plugin"
+    ],
+  "peerDependencies": {
+    "eslint": "^3.12.0"
+  }
+}
