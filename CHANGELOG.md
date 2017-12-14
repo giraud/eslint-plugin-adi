@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="0.2.5"></a>
+## [0.2.5](https://github.com/giraud/eslint-plugin-adi/compare/v0.2.4...v0.2.5) (2017-12-14)
+
+
+### Bug Fixes
+
+* adding more restrictions ([252d6f7](https://github.com/giraud/eslint-plugin-adi/commit/252d6f7))
+
+
+
 <a name="0.2.4"></a>
 ## [0.2.4](https://github.com/giraud/eslint-plugin-adi/compare/v0.2.3...v0.2.4) (2017-12-14)
 
